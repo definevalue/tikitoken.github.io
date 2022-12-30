@@ -47,7 +47,7 @@
     "gh-pages": "^3.2.1",
     "postcss-cli": "7.1.1",
     "react-axe": "3.5.2",
-    "release-it": "13.6.4",
+    "release-it": "13.7.2",
     "tailwindcss": "1.4.6"
   },
   "keywords": [
